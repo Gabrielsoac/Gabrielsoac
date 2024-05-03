@@ -29,8 +29,8 @@
   <a href= "https://github.com/Gabrielsoac">
    
   [![card](https://github-readme-stats.vercel.app/api?username=Gabrielsoac&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Gabrielsoac](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsoac&hide=html&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+  
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabrielsoac&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
  
   
 ## Little more about me ##
