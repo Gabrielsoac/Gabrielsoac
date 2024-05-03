@@ -35,9 +35,9 @@
 
 ## Repositories ## 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsoac&repo=NLW-Unite&bg_color=292D3E&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=c792ea&text_color=#808080)](https://github.com/Gabrielsoac/NLW-Unite)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsoac&repo=reports-api&bg_color=292D3E&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=c792ea&text_color=#808080)](https://github.com/Gabrielsoac/reports-api)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsoac&repo=googleProjectManagement&bg_color=292D3E&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=c792ea&text_color=#808080)](https://github.com/Gabrielsoac/googleProjectManagement)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsoac&repo=NLW-Unite&bg_color=292D3E&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=c792ea&text_color=676E95)](https://github.com/Gabrielsoac/NLW-Unite)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsoac&repo=reports-api&bg_color=292D3E&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=c792ea&text_color=676E95)](https://github.com/Gabrielsoac/reports-api)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsoac&repo=googleProjectManagement&bg_color=292D3E&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=c792ea&text_color=676E95)](https://github.com/Gabrielsoac/googleProjectManagement)
 
   
 ## Little more about me ##
