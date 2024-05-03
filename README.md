@@ -7,7 +7,7 @@
 - About:
   <div>
   <a href= "https://github.com/Gabrielsoac">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielsoac)](https://github.com/Gabrielsoac/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gabrielsoac&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 ##
