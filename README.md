@@ -20,7 +20,7 @@
   <a href= "https://github.com/Gabrielsoac">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gabrielsoac&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
-  [![Gabrielsoac](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  [![Gabrielsoac](https://github-readme-stats.vercel.app/api/top-langs/?Gabrielsoac=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 </div>
