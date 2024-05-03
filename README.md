@@ -20,10 +20,10 @@
   
   <a href= "https://github.com/Gabrielsoac">
    
-  [![card](https://github-readme-stats.vercel.app/api?username=Gabrielsoac&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![card](https://github-readme-stats.vercel.app/api?username=Gabrielsoac&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
 
-  [![Gabrielsoac](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsoac&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  [![Gabrielsoac](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsoac&hide=html&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 </div>
