@@ -1,13 +1,13 @@
 ### Hi, my name's Gabriel. I'm studying Software engineering and backend development.
-- ☕ Currently studying Java
-- 🔠 I develop in C and Python
+- ☕ Currently studying Java with Spring Boot
+- 🔠 WEB Developer
 - 🤔 Looking for an trainee or opportunity Junior.
 - 📫 Brasilia-DF (Brazil)
 ##
 - About:
   <div>
   <a href= "https://github.com/Gabrielsoac">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gabrielsoac&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gabrielsoac&theme=radical&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 ##
