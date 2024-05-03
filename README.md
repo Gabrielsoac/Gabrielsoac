@@ -18,7 +18,7 @@
 ##
  <div>
   <a href= "https://github.com/Gabrielsoac">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Gabrielsoac&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gabrielsoac&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 
 ##
