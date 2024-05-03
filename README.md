@@ -7,6 +7,12 @@
 - 🔠  Speak Portuguese and English
 - 🤔  Training to get Oracle Certified Associate Java Programmer
 
+
+### My Stacks ###
+
+
+
+
 ##
  <div>
   
@@ -28,3 +34,5 @@
 </div>
   <a href="gabrielsoacc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielsoacc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></>
+   
+  [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/gabriyelloww)
