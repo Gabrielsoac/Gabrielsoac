@@ -7,7 +7,7 @@
 - About:
   <div>
   <a href= "https://github.com/Gabrielsoac">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gabrielsoac&theme=tokyonight&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gabrielsoac&theme=nightowl&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
 ##
