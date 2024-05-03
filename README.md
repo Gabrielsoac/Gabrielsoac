@@ -37,7 +37,7 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsoac&repo=NLW-Unite&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielsoac/NLW-Unite)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsoac&repo=reports-api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielsoac/reports-api)
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsoac&repo=googleProjectManagement&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielsoac/googleProjectManagement)
 
   
 ## Little more about me ##
