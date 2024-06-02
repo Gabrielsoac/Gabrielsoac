@@ -31,14 +31,6 @@
   [![card](https://github-readme-stats.vercel.app/api?username=Gabrielsoac&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsoac&theme=material-palenight)
- 
-
-## Repositories ## 
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsoac&repo=NLW-Unite&bg_color=292D3E&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=c792ea&text_color=A9A9A9)](https://github.com/Gabrielsoac/NLW-Unite)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsoac&repo=reports-api&bg_color=292D3E&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=c792ea&text_color=A9A9A9)](https://github.com/Gabrielsoac/reports-api)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielsoac&repo=googleProjectManagement&bg_color=292D3E&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=c792ea&text_color=A9A9A9)](https://github.com/Gabrielsoac/googleProjectManagement)
-
   
 ## Little more about me ##
 
