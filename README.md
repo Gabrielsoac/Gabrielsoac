@@ -1,47 +1,29 @@
-# Hi, my name's Gabriel. #
 
-### About: ###
+# Hi  👋 #
 
-- 📔  I'm studying Software engineering
-- 📌  Focus on Java with Spring Boot
-- 🔠  Speak Portuguese and English
-- 🤔  Training to get Oracle Certified Associate Java Programmer
+## About me ##
 
+- 📔 I'm student in Software engineering and Junior Software Developer
+- 🎓 Google Project Manager Certified 
+- 📌 Focus on Backend
+- 🥷 Skills on APIRestful, Unit Tests with JUnit5 and Mockito, containerization with Docker
+- 🔠 Speak Portuguese and English
+- 🤔 Currently learning CI/CD, Docker, Design Patterns and Software Design
 
-### My Stacks ###
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+  <img align="right" alt="Code Image" src="./top-images-for-readme-.png"  width="300px"/>
 
 
-##
- <div>
-  
-  <a href= "https://github.com/Gabrielsoac">
-   
-  [![card](https://github-readme-stats.vercel.app/api?username=Gabrielsoac&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsoac&theme=material-palenight)
+## Main Tools ##
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,git,docker,linux,postman,python&theme=light)](https://skillicons.dev)
+
+## Social ##
+</div>
+  <a href="gabrielsoacc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielsoacc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></>
+
   
 ## Little more about me ##
 
 - ♟️ Chess Player
 - 📚 Reader
 - 📫  Brasilia-DF (Brazil)
-
-
-### Social ###
-</div>
-  <a href="gabrielsoacc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielsoacc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></>
-   
-  [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/gabryelloww)
