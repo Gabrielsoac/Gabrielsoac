@@ -1,6 +1,8 @@
 
 # Hi  👋 #
 
+<img align="right" alt="Code Image" src="./top-images-for-readme-.png"  width="300px"/>
+
 ## About me ##
 
 - 📔 I'm student in Software engineering and Junior Software Developer
@@ -9,9 +11,6 @@
 - 🥷 Skills on APIRestful, Unit Tests with JUnit5 and Mockito, containerization with Docker
 - 🔠 Speak Portuguese and English
 - 🤔 Currently learning CI/CD, Docker, Design Patterns and Software Design
-
-  <img align="right" alt="Code Image" src="./top-images-for-readme-.png"  width="300px"/>
-
 
 ## Main Tools ##
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,git,docker,linux,postman,python&theme=light)](https://skillicons.dev)
