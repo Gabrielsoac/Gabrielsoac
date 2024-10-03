@@ -1,9 +1,9 @@
 
 # Hi  👋 #
 
-<img align="right" alt="Code Image" src="./top-images-for-readme-.png" width="300px"/>
+<h2>About me</h2>
 
-## About me ##
+<img align="right" alt="Code Image" src="./top-images-for-readme-.png" width="300px"/>
 
 - 📔 I'm student in Software engineering and Junior Software Developer
 - 🎓 Google Project Manager Certified 
