@@ -3,7 +3,7 @@
 
 <h2>About me</h2>
 
-<img align="right" alt="Code Image" src="./readme.jpg" width="300px"/>
+<img align="right" alt="Code Image" src="./readme.jpg" width="350px" height="230px"/>
 
 - 📔 I'm student in Software engineering and Junior Software Developer
 - 🎓 Google Project Manager Certified 
