@@ -1,7 +1,7 @@
 
 # Hi  👋 #
 
-<img align="right" alt="Code Image" src="./top-images-for-readme-.png"  width="300px"/>
+<img align="right" alt="Code Image" src="./top-images-for-readme-.png" width="300px"/>
 
 ## About me ##
 
