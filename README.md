@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&size=35&pause=1000&color=00F1F7&width=1000&height=100&lines=I'm+student+in+Software+engineering;Google+Project+Manager+Certified+2023;Studying+for+AWS+Practitioner+Certification;Focus+on+Backend+and+DevOps!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&size=35&pause=1000&color=FFFFFF&width=1000&height=100&lines=I'm+student+in+Software+engineering;Google+Project+Manager+Certified+2023;Studying+for+AWS+Practitioner+Certification;Focus+on+Backend+and+DevOps!)](https://git.io/typing-svg)
 
 ## About me ##
 
