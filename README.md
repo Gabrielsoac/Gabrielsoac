@@ -22,7 +22,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gabrielsoac&show_icons=true&theme=radical)
+## Statistics
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrielsoac&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabrielsoac&hide=Html&theme=tokyonight) |
+| :-: | :-: |
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielsoac&theme=tokyonight)
 
 ## Contact me ##
 gabrielsoacc@gmail.com
