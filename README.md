@@ -1,41 +1,35 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=600&lines=Gabriel+Soares)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&size=35&pause=1000&color=FFFFFF&width=1000&height=100&lines=I'm+student+in+Software+engineering;Google+Project+Manager+Certified+2023;Studying+for+AWS+Practitioner+Certification;Focus+on+Backend+and+DevOps!)](https://git.io/typing-svg)
+**Desenvolvedor Back-End Júnior** <br>
+*Google Project Manager certificado - 2023* <br>
+*Cursando Engenharia de Software*
 
-## About me ##
+## Sobre mim ##
 
-- 🎓 I'm student in Software engineering and **Software Developer** at **@unafiber-planaltina**
-- 🎓 Certifications: **Google Project Manager Certified** - 2023 
-- 🥷 Skills: **Backend Development**, **APIRestul**, **SQL Databases**, **Containerization**, **Web Security** and **Agile Project Management** 
-- 🔠 Speak: **Portuguese** (native) and **English**
-- 🤔 Currently: Studying for **AWS Practitioner Certification**, **CI/CD with Gitlab**, **Design Patterns** and **Software Design**
+Meu nome é Gabriel Soares, sou estudante de Engenharia de Software e focado em Desenvolvimento Back-end, <br>
+atualmente estou aprofundando conhecimentos em Front-end com HTML, CSS e JavaScript para me tornar FullStack! <br> 
+Atuo como Desenvolvedor Junior com Java em um Projeto de sistema de controle interno para a **Unafiber** utilizando <br>
+Java 17, Junit5, PostgreSQL, Docker e Docker Swarm como ferramentas principais.
 
-## Tools ##
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## Gostaria de falar comigo? ##
 
-## Statistics
+Caso queira colaborar com alguns dos meus projetos ou gostaria que eu participasse de um projeto, me contate via e-mail
+gabrielsoacc@gmail.com <br> ou pelas redes sociais <br>
+<br>
+   [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/gabryelloww)
+   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabrielsoacc/)
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrielsoac&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabrielsoac&hide=Html&theme=tokyonight) |
-| :-: | :-: |
+## Estatísticas
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Gabrielsoac&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Gabrielsoac&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielsoac&theme=tokyonight)
+## Projetos pessoais ou colaborados
 
-## Contact me ##
-gabrielsoacc@gmail.com
-   
-  <a href="https://www.linkedin.com/in/gabrielsoacc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href="(https://x.com/gabryelloww)"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)" target="_blank">
-    
-## More about me ##
+### <a href="https://github.com/Gogh-Co/Gogh">Gogh</a>
+Projeto Linux, escrito em Python e Shell Script para construção de Temas para terminal. Fui responsável pela <br>
+criação do tema *Minimalist Dark*. O projeto está ativo e é mantido pela comunidade OpenSource desde 2013!
 
-- Member of an extension project for the development of a website for the Department of Tourism.
-- Carried out a Scientific Initiation project presenting a Bibliographical Research with the title "The role of generative AIs in the field of Software Development".
+## Mais sobre mim ##
+
+- Estudando para Certificação AWS Cloud Practitioner
+- Participou do Projeto de Iniciação Científica e colaborou para produzir um Resumo Expandido com o título "O Papel da Inteligência Artificial no Desenvolvimento de Software".
