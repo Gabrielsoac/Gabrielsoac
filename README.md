@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=30&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=600&lines=Gabriel+Soares)](https://git.io/typing-svg)
 
 **Desenvolvedor Back-End Júnior** <br>
-*Google Project Manager certificado - 2023* <br>
+*Google Project Management certificado - 2023* <br>
 *Cursando Engenharia de Software*
 
 ## Sobre mim ##
