@@ -6,10 +6,13 @@
 
 ## Sobre mim ##
 
-Meu nome é Gabriel Soares, sou estudante de Engenharia de Software e focado em Desenvolvimento Back-end, <br>
-atualmente estou aprofundando conhecimentos em Front-end com HTML, CSS e JavaScript/Typescript e Backend com ExpressJS para me tornar FullStack! <br> 
-Atuo como Desenvolvedor Junior com Java em um Projeto de sistema de controle interno para a **Unafiber**, utilizando <br>
-Java 17, Junit5, PostgreSQL, Docker e Docker Swarm/Compose como ferramentas principais.
+Estudante de Bacharel em Engenharia de Software, profissional dedicado ao desenvolvimento de software e entusiasta da tecnologia. Aprofundando conhecimentos em TypeScript para desenvolvimento web de aplicações escaláveis, Design Patterns, Microservices e Padrões de Projeto de Software.
+
+Atualmente focado em obter a Certificação AWS Cloud Fundations 
+
+Como Desenvolvedor backend, atua na construção e manutenção de Microserviços para garantir qualidade, estabilidade e segurança de projetos escaláveis e de alta disponibilidade.
+
+Participou de Projetos que impactaram o dia a dia de mais de 8 mill usuários B2C e mais de 1 Mil usuários B2B, utilizando ferramentas como Java, Javascript, Typescript, PostgreSQL, MongoDB, SpringBoot, Express e diversas outras bibliotecas, incluindo o desenvolvimento de testes unitários com JUnit e Jest, implementações de segurança e códigos legíveis de fácil manutenibilidade
 
 ## Projetos pessoais ou colaborados
 
