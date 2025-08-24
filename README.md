@@ -19,7 +19,7 @@
 
 - Studying to obtain the **AWS Cloud Practitioner Certification**  
 - Co-author of *"O Papel da Inteligência Artificial no Desenvolvimento de Software"* (written in Brazilian Portuguese)
-- Building [stockei](stockei.com) to Extension Project
+- Building [stockei](https://stockei.com) to Extension Project
 
 ---
 
