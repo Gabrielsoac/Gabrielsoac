@@ -31,7 +31,7 @@
 
 ## GitHub Statistics
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielsoac&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gabrielsoac?cardType=level&theme=react&preferLogin=true&Background=000000)](https://git.io/awesome-stats-card)
 
 ---
 
