@@ -31,7 +31,10 @@
 
 ## GitHub Statistics
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gabrielsoac?cardType=level&theme=react&preferLogin=true&Background=000000)](https://git.io/awesome-stats-card)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-danielangelo1.vercel.app/api?username=Gabrielsoac&show_icons=true&count_private=true&hide_border=true&title_color=892cdc&icon_color=892cdc&text_color=fff&bg_color=0d1117&include_all_commits=true" alt="Gabriel Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-danielangelo1.vercel.app/api/top-langs/?username=Gabrielsoac&layout=compact&hide_border=true&title_color=892cdc&text_color=fff&bg_color=0d1117&langs_count=8&count_private=true" />
+</div>
 
 ---
 
