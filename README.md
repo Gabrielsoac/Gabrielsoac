@@ -10,7 +10,7 @@ and *Postgraduate in AI Engineering*
 
 ## About Me
 
-- I am a BS in Software Engineering, Postgraduate in AI Engineering and technology enthusiast.
+- Linux user and technology enthusiast.
 - Mid-Level Software Engineer at [Place Technology and Inovation](https://placeti.com.br/).
 - Currently focused on **Microservices, Cloud Computing, and AI projects**, exploring scalable and efficient software architectures.
 
