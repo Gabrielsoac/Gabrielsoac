@@ -4,13 +4,14 @@
 **Software Engineer**  
 *Google Project Management certified - 2023*  
 *BS in Software Engineering*
+*Postgraduate in AI Engineering*
 
 ---
 
 ## About Me
 
-- I am a BS in Software Engineering, web backend developer and technology enthusiast.
-- Backend Developer at [contatoseguro](https://contatoseguro.com.br/).
+- I am a BS in Software Engineering, Postgraduate in AI Engineering and technology enthusiast.
+- Mid-Level Software Engineer at [Place Technology and Inovation](https://placeti.com.br/).
 - Currently focused on **Microservices, Cloud Computing, and AI projects**, exploring scalable and efficient software architectures.
 
 ---
