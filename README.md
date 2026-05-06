@@ -1,7 +1,7 @@
 # Gabriel Soares
 ![space boy developer](https://github.com/user-attachments/assets/996d0f91-e22a-44b1-9a5c-fdf0db7bcae2)
 
-**Software Engineer**  
+**Mid-Level Software Engineer**  
 *Google Project Management certified - 2023*  
 *BS in Software Engineering*
 *Postgraduate in AI Engineering*
