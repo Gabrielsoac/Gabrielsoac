@@ -13,6 +13,7 @@ and *Postgraduate in AI Engineering*
 - Linux user and technology enthusiast.
 - Mid-Level Software Engineer at [Place Technology and Inovation](https://placeti.com.br/).
 - Currently focused on **Microservices, Cloud Computing, and AI projects**, exploring scalable and efficient software architectures.
+- Learning Golang
 
 ---
 
