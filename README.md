@@ -4,7 +4,7 @@
 **Mid-Level Software Engineer**  
 *Google Project Management certified - 2023*  
 *BS in Software Engineering*
-*Postgraduate in AI Engineering*
+and *Postgraduate in AI Engineering*
 
 ---
 
